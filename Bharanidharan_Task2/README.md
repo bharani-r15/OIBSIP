@@ -11,11 +11,14 @@ Segment e-commerce customers based on purchasing behavior using RFM analysis and
 - Jupyter Notebook
 
 ## Dataset
-UCI Online Retail Dataset
 
-Source: https://archive.ics.uci.edu/dataset/352/online+retail
+**Dataset Name:** Online Retail Dataset
 
-The dataset is not uploaded due to GitHub's browser upload size limit.
+**Source:** Kaggle
+
+**Dataset Link:** https://www.kaggle.com/datasets/ulrikthygepedersen/online-retail-dataset
+
+The dataset is not included in this repository due to GitHub's browser upload size limit.
 
 ## Project Overview
 - Data cleaning and preprocessing
