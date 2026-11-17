@@ -18,29 +18,28 @@ Analyze retail sales data to identify sales trends, customer behavior, and produ
 - Jupyter Notebook
 
 ## Analysis Performed
-- Data inspection and descriptive statistics
-- Monthly and quarterly sales analysis
-- Customer demographics analysis
+- Dataset inspection and missing value analysis
+- Descriptive statistics
+- Monthly and quarterly sales trends
+- Customer age and gender analysis
 - Product category sales and revenue analysis
-- Correlation heatmap and bubble chart
+- Correlation matrix heatmap
+- Product category bubble chart
 
 ## Key Findings
-1. May 2023 recorded the highest monthly sales.
-2. Q4 2023 generated the highest quarterly revenue.
-3. Customers aged 40–59 recorded high transaction activity.
-4. Clothing had the highest sales quantity, while Electronics generated the highest revenue.
-5. Price per Unit and Total Amount showed a strong positive correlation (0.85).
+- May 2023 recorded the highest monthly sales.
+- Clothing had the highest quantity sold.
+- Electronics generated the highest revenue.
+- Price per Unit showed a strong positive correlation with Total Amount.
 
 ## Business Recommendations
-1. Maintain sufficient inventory during peak sales periods.
-2. Prioritize stock availability for high-demand Clothing products.
-3. Promote Electronics to strengthen revenue.
-4. Target active customer age groups with personalized offers.
-5. Introduce discounts during lower-performing sales periods.
+1. Prepare inventory and promotional campaigns for high-sales periods.
+2. Prioritize stock availability for high-demand clothing products.
+3. Focus on electronics to improve revenue performance.
 
 ## Project Files
-- **Retail Sales EDA.ipynb:** Python code, analysis, and visualizations.
-- **retail_sales_dataset.csv:** Dataset used for the project.
+- `Retail Sales EDA.ipynb` - Jupyter Notebook containing the analysis.
+- `retail_sales_dataset.csv` - Dataset used for the analysis.
 
 ## Conclusion
-This project identified important retail sales trends, customer behavior, and product performance patterns. The findings support better inventory management, marketing strategies, and business decisions.
+The analysis provides insights into retail sales trends, customer demographics, and product category performance to support data-driven business decisions.
